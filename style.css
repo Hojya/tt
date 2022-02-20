@@ -1,0 +1,87 @@
+body{
+    margin-left: 5%;
+    margin-right:  5%;
+    margin-top: 2%;
+}
+.cont{
+    margin-top: 3%;
+}
+.link{
+    text-decoration: none;
+    color: rgb(139, 18, 18);
+    font-weight: bold;
+} 
+
+.link:hover{
+    color: rgb(139, 18, 18);
+}
+
+.back{
+    text-decoration: none;
+    
+}
+
+h4{
+    background-color: rgb(74, 74, 87);
+    padding: 10px;
+    color: aliceblue;
+}
+/* .history{
+    background-color: rgb(74, 74, 87);
+    color: white;
+    padding: 5px;
+} */
+
+.back{
+    color: blue;
+}
+.heder{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    width: 100%;
+    flex-wrap: wrap;
+}
+/* .button{
+    width: 10%;
+}
+
+.cont-btn{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 50%;
+
+
+
+} */
+
+.add{
+    display: none;
+}
+
+.remove{
+    display: block;
+}
+.red{
+    color: rgb(228, 13, 13);
+}
+.green{
+    color: green;
+
+}
+.blue{
+    color: blue;
+}
+
+.single { display: none; }
+.single.active { display: block; }
+
+.p , h6{
+    color: brown;
+}
+
+.tooltip{
+    color: brown;
+    text-decoration: none;
+}
